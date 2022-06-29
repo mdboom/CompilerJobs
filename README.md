@@ -422,7 +422,7 @@ As well as some other IBM internal compilers, and LLVM projects.
 
 * Compiler development for Microchip's chips. 
 
-## [Microsoft](https://careers.microsoft.com/)
+## [Microsoft](https://careers.microsoft.com/) 📤
 
 * MSVC
 * C#, F#
